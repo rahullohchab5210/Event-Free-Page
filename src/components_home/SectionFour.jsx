@@ -57,7 +57,7 @@ function SectionFour() {
             <div className='mb-22.5'>
                 <div className='flex flex-row flex-wrap -mx-3 items-center max-md:gap-20 '>
                     <div className='w-full md:w-[58.33%] px-3'>
-                        <img src="./public/assets/images/join_us.png" alt="pic" className='max-lg:w-full' />
+                        <img src="/assets/images/join_us.png" alt="pic" className='max-lg:w-full' />
                     </div>
                     <div className='w-full md:w-[41.66%] px-3'>
                         <span className="relative font-[Poppins] font-bold text-5xl leading-[100%] tracking-[0%] text-black">
